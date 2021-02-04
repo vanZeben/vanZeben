@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/vanZeben/vanZeben/master/fb_img_1502069508390.jpg">
+</p>
 
-<!--
-**vanZeben/vanZeben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ryan (he/she/they)— a soon-to-be-father and full-stack developer at [Prodigy Education](https://www.prodigygame.com/) working on the online tutoring experience. I also perform as a Drag Queen sometimes under the alias Jenna Tulls 💕 
 
-Here are some ideas to get you started:
+## My values
+🌟 Expression as authentic self<br>
+💖 Safety and trust<br>
+🍏 Curiosity<br>
+🙌 Shared understanding<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- [Email](mailto:ryan@vanzeben.ca)
+- [LinkedIn](https://www.linkedin.com/in/vanzeben)
