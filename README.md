@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/vanZeben/vanZeben/master/fb_img_1502069508390.jpg">
 </p>
 
-Hi, I'm Ryan (he/she/they)— a father of one and technical lead at [Prodigy Education](https://www.prodigygame.com/) working on the online tutoring experience. I also perform as a Drag Queen sometimes under the alias Jenna Tulls 💕 
+Hi, I'm Ryan (he/she/they)— a father of one and SDE III here at GitHub working on the Mac Cloud platform. I also perform as a Drag Queen sometimes under the alias Jenna Tulls 💕 
 
 ## My values
 🍏 Curiosity<br>
@@ -11,5 +11,5 @@ Hi, I'm Ryan (he/she/they)— a father of one and technical lead at [Prodigy Edu
 🙌 Shared understanding<br>
 
 ## Get in touch
-- [Email](mailto:ryan@vanzeben.ca)
+- [Email](mailto:vanzeben@github.com)
 - [LinkedIn](https://www.linkedin.com/in/vanzeben)
